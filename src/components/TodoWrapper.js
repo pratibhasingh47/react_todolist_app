@@ -34,7 +34,7 @@ export const TodoWrapper = () => {
                     ? {
                             ...todo,
                             isEditing: !todo.isEditing,
-                      }
+                    }
                     : todo
             )
         );
