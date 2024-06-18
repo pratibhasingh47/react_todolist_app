@@ -32,8 +32,8 @@ export const TodoWrapper = () => {
             todos.map((todo) =>
                 todo.id === id
                     ? {
-                          ...todo,
-                          isEditing: !todo.isEditing,
+                            ...todo,
+                            isEditing: !todo.isEditing,
                       }
                     : todo
             )
@@ -45,10 +45,10 @@ export const TodoWrapper = () => {
             todos.map((todo) =>
                 todo.id === id
                     ? {
-                          ...todo,
-                          task,
-                          isEditing: !todo.isEditing,
-                      }
+                            ...todo,
+                            task,
+                            isEditing: !todo.isEditing,
+                        }
                     : todo
             )
         );
