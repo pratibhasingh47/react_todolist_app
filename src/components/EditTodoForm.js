@@ -18,6 +18,7 @@ export const EditTodoForm = ({ editTodo, task }) => {
                 placeholder="Update Task"
                 onChange={(e) => setvalue(e.target.value)}
             ></input>
+			
             <button type="submit" className="todo-btn">
                 Update Task
             </button>
