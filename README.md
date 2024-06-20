@@ -8,11 +8,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To create a new app, you may write this in terminal
 
-<!-- ### npx
+### npx
 
 ```sh
 npx create-react-app my-app
-``` -->
+```
 
 
 <!-- ## Available Scripts
