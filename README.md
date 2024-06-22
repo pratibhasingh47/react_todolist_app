@@ -43,7 +43,7 @@ Task Updation
 
 ![Header](git_image/image2.png)
 
-Task Addition
+Task Deletion
 
 ![Header](git_image/image1.png)
 
