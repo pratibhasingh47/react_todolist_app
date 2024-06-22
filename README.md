@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-<!-- 
+
+<!--
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). -->
 
 ### Creating an App
@@ -8,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To create a new app, you may write this in terminal
 
-### npm 
+### npm
 
 ```sh
 npm install
@@ -19,7 +20,6 @@ npm install
 ```sh
 npx create-react-app my-app
 ```
-
 
 ## Available Scripts
 
@@ -45,7 +45,7 @@ Task Updation
 
 Task Deletion
 
-![Header](git_image/image1.png)
+![Header](git_image/image3.png)
 
 <!-- ### `npm test`
 
