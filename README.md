@@ -35,7 +35,9 @@ You may also see any lint errors in the console.
 
 ## Demo
 
-![Header](git_image/demo.png)
+Task Addition
+
+![Header](git_image/image1.png)
 
 <!-- ### `npm test`
 
